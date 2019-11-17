@@ -1,7 +1,7 @@
 def my_each(words)
    
-  while i < words.length
+  while words.length < 5
     return 
-    i = i + 1 
+    words.index(i)
   end
 end
