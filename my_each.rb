@@ -1,6 +1,8 @@
 def my_each(words)
-   
-  while 
+  i = 0 
+  
+  while i < words.length 
+  
   
   end
 end
