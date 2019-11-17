@@ -1,7 +1,6 @@
 def my_each(words)
    
-  while words.length < 5
-    return 
+  while 
   
   end
 end
